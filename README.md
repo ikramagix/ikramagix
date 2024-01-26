@@ -3,11 +3,40 @@
 - 🌱 I’m currently learning SQL, JavaScript, HTML, CSS, Ruby, Ruby on Rails, Next.js
 - 💞️ I’m looking to collaborate on anything inspiring, really?
 - 📫 How to reach me : https://www.linkedin.com/in/ikrame-saadi/
+
 <!---
-ikramagic/ikramagic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ikramagic/ikramagic/ `README.md` ✅ (this file) is an ✨ ADHD-friendly `README.md` ✅ for y'all screen readers ✨ 
+`README.md` (this file) ✅ appears on my GitHub 👋 profile. 
+You can 🌱 have yours too! 👀
+💞️ Enjoy the scrolling 
+Let's connect on Linkedin 📫
 --->
-Je vis à travers la Méditerranée, au cœur de l'Europe. Entre le sud de la France, ma terre natale, l'île de Chypre ma nouvelle patrie, et le Maroc, mon berceau. Entre trois des cinq continents. Je parle français, anglais, espagnol, et deux dialectes marocains et je préfère les chiffres impairs.
+
+- Je vis à travers la Méditerranée, au cœur de l'Europe. Entre le sud de la France, ma terre natale, l'île de Chypre ma nouvelle patrie, et le Maroc, mon berceau.
+- Entre trois des cinq continents.
+- Je parle français, anglais, espagnol, et deux dialectes marocains.
+- Je préfère les chiffres impairs.
+
+<!---
+ikramagic/ikramagic/ `README.md` ✅ (this file) is an ✨ ADHD-friendly `README.md` ✅ for y'all screen readers ✨ 
+`README.md` (this file) ✅ appears on my GitHub 👋 profile. 
+You can 🌱 have yours too! 👀
+💞️ Enjoy the scrolling 
+Let's connect on Linkedin 📫
+--->
+
+I live across the Mediterranean, in the heart of Europe. Between the south of France, my native land, the island of Cyprus, my new homeland, and Morocco, my cradle.
+Between three of the five continents.
+I speak French, English, Spanish, and two Moroccan dialects.
+I prefer odd numbers.
+
+<!---
+ikramagic/ikramagic/ `README.md` ✅ (this file) is an ✨ ADHD-friendly `README.md` ✅ for y'all screen readers ✨ 
+`README.md` (this file) ✅ appears on my GitHub 👋 profile. 
+You can 🌱 have yours too! 👀
+💞️ Enjoy the scrolling 
+Let's connect on Linkedin 📫
+--->
 
 Passionnée, 
 point. 
@@ -16,3 +45,17 @@ point.
 Ruby, Rails, HTML, CSS et JavaScript. Je me me forme aussi en SQL, Python. 
 
 Mon domaine de prédilection ? L'industrie aéronautique. Je suis intriguée par les perspectives qu'offre l'intelligence artificielle, tout particulièrement dans l'automatisation des tâches.
+
+<!---
+ikramagic/ikramagic/ `README.md` ✅ (this file) is an ✨ ADHD-friendly `README.md` ✅ for y'all screen readers ✨ 
+`README.md` (this file) ✅ appears on my GitHub 👋 profile. 
+You can 🌱 have yours too! 👀
+💞️ Enjoy the scrolling 
+Let's connect on Linkedin 📫
+--->
+
+👋 Coucou, c'est @ikramagic qui vous parle ! 
+👀 Passionnée par l'univers d'Angular et de Python, je navigue actuellement dans les eaux du SQL, JavaScript, HTML, CSS, Ruby, Ruby on Rails, et Next.js. C'est une aventure palpitante au cœur du code !
+💞️ Je suis toujours à la recherche de projets inspirants et stimulants. Vous avez quelque chose qui pourrait éveiller ma curiosité ? Je suis toute ouïe !
+📫 [Let's connect on LinkedIn](https://www.linkedin.com/in/ikrame-saadi/)
+. N'hésitez pas à m'envoyer un petit message, je suis toujours prête à échanger avec les esprits créatifs.
