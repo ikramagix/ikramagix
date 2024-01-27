@@ -25,10 +25,10 @@ You can 🌱 have yours too! 👀
 Let's connect on Linkedin 📫
 --->
 
-I live across the Mediterranean, in the heart of Europe. Between the south of France, my native land, the island of Cyprus, my new homeland, and Morocco, my cradle.
-Between three of the five continents.
-I speak French, English, Spanish, and two Moroccan dialects.
-I prefer odd numbers.
+- I live across the Mediterranean, in the heart of Europe. Between the south of France, my native land, the island of Cyprus, my new homeland, and Morocco, my cradle.
+- Between three of the five continents.
+- I speak French, English, Spanish, and two Moroccan dialects.
+- I prefer odd numbers.
 
 <!---
 ikramagic/ikramagic/ `README.md` ✅ (this file) is an ✨ ADHD-friendly `README.md` ✅ for y'all screen readers ✨ 
@@ -54,8 +54,10 @@ You can 🌱 have yours too! 👀
 Let's connect on Linkedin 📫
 --->
 
-👋 Coucou, c'est @ikramagic qui vous parle ! 
-👀 Passionnée par l'univers d'Angular et de Python, je navigue actuellement dans les eaux du SQL, JavaScript, HTML, CSS, Ruby, Ruby on Rails, et Next.js. C'est une aventure palpitante au cœur du code !
-💞️ Je suis toujours à la recherche de projets inspirants et stimulants. Vous avez quelque chose qui pourrait éveiller ma curiosité ? Je suis toute ouïe !
-📫 [Let's connect on LinkedIn](https://www.linkedin.com/in/ikrame-saadi/)
-. N'hésitez pas à m'envoyer un petit message, je suis toujours prête à échanger avec les esprits créatifs.
+-👋 Coucou, c'est @ikramagic qui vous parle ! 
+- 👀 Passionnée par l'univers du c'est quoi ça, je navigue actuellement dans les eaux du SQL, JavaScript, HTML, CSS, Ruby, Ruby on Rails, et Next.js.
+- 💞️ Je suis toujours à la recherche de projets inspirants et stimulants. Vous avez quelque chose qui éveille la curiosité ? Je suis toute ouïe !
+- 📫 [Let's connect on LinkedIn](https://www.linkedin.com/in/ikrame-saadi/)
+- 🫶 N'hésitez pas à m'envoyer un petit message, je suis toujours prête à échanger avec vous, esprits créatifs.
+- 🍑 Mon fruit préféré ? La pêche.
+- 🦎 Mon animal préféré ? Le lézard.
