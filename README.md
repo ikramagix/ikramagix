@@ -1,5 +1,5 @@
 <details>
-<summary>the magic? 1:15 ───ㅇ───── 9:55 </summary>
+<summary>the magic? 0:99 ───ㅇ───── 0:99 </summary>
 
 ikramagic/ikramagic/ `README.md` ✅ (this file) is an ✨ ADHD-friendly `README.md` ✅ for y'all screen readers ✨  
 `README.md` (this file) ✅ appears on my GitHub 👋 profile.  
@@ -73,12 +73,11 @@ Mon domaine de prédilection ? L'industrie aéronautique. Je suis intriguée par
 <br>
 
 <details>
-<summary>that dev magic? 1:10 ───ㅇ───── 1:01 </summary>
+<summary>that ⵜⴰⵢⵔⵉ magic? 1:10 ───ㅇ───── 1:01 </summary>
 
 ikramagic/ikramagic/ `README.md` ✅ (this file) is an ✨ ADHD-friendly `README.md` ✅ for y'all screen readers ✨  
 `README.md` (this file) ✅ appears on my GitHub 👋 profile.  
 You can 🌱 have yours too! 👀  
-⚡ 🔊 Enjoy the ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:99 [beats](https://www.youtube.com/playlist?list=PLNcTKDW0oKbxBDSO-XiHc-b3JNFTqdYvt)⚡
-Let's connect on Linkedin 📫
+⚡ 🔊 Enjoy the ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:99 🎺 [BEETZ](https://www.youtube.com/playlist?list=PLNcTKDW0oKbxBDSO-XiHc-b3JNFTqdYvt) 🎺 & [Let's connect on LinkedIn!](https://www.linkedin.com/in/ikrame-saadi/)⚡
 
 </details>
