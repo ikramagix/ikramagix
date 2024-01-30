@@ -78,6 +78,6 @@ Mon domaine de prédilection ? L'industrie aéronautique. Je suis intriguée par
 ikramagic/ikramagic/ `README.md` ✅ (this file) is an ✨ sound-powered `README.md` ✅ for y'all music lovers ✨  
 `README.md` (this file) ✅ appears on my GitHub 👋 profile.  
 🥏 I am also a DJ ! 👀  
-⚡ 🔊 Enjoy the ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:99 🎺 [BEETZ](https://www.youtube.com/playlist?list=PLNcTKDW0oKbxBDSO-XiHc-b3JNFTqdYvt) 🎺 & [Let's connect on LinkedIn!](https://www.linkedin.com/in/ikrame-saadi/)⚡
+⚡ 🔊 Come check my other portfolio and enjoy the ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:99 🎺 [BEETZ](https://www.youtube.com/playlist?list=PLNcTKDW0oKbxBDSO-XiHc-b3JNFTqdYvt) 🎺 & [contact-me](https://www.linkedin.com/in/ikrame-saadi/) !⚡
 
 </details>
