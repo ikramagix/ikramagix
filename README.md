@@ -73,7 +73,7 @@ Mon domaine de prédilection ? L'industrie aéronautique. Je suis intriguée par
 <br>
 
 <details>
-<summary>that ⵜⴰⵢⵔⵉ magic? 1:10 ───ㅇ───── 1:01 </summary>
+<summary>that ⵜⴰⵢⵔⵉ (тайри) magic? 1:10 ───ㅇ───── 1:01 </summary>
 
 ikramagic/ikramagic/ `README.md` ✅ (this file) is an ✨ sound-powered `README.md` ✅ for y'all music lovers ✨  
 `README.md` (this file) ✅ appears on my GitHub 👋 profile.  
