@@ -7,7 +7,7 @@ You can 🌱 have yours too! 👀
 💞️ Enjoy the scrolling  
 Let's connect on Linkedin 📫
 
-<a href="https://www.youtube.com/watch?v=BTyQSIJAAgE" target="_blank" rel="noopener noreferrer">What Magic?</a>
+<a href="https://www.youtube.com/watch?v=BTyQSIJAAgE" target="_blank">What Magic?</a>
 
 </details>
 
@@ -21,10 +21,11 @@ Let's connect on Linkedin 📫
 
 <br>
 
-|| I live across the Mediterranean, in the heart of Europe. Between the south of France, my native land, the island of Cyprus, my new homeland, and Morocco, my cradle.  ִ ࣪𖤐  
-|| Between three of the five continents.  
-|| I speak French, English, Spanish, and two Moroccan dialects.  
-|| I prefer odd numbers.
+|| I live across the Mediterranean, in the heart of Europe. 🌊 
+|| South of France : my native land, the island of Cyprus : my new homeland, Morocco : my cradle.  ִ ࣪𖤐  
+|| Between three of the five continents.  🌍
+|| I speak French, English, Spanish, and two Moroccan dialects. 🗣
+|| I prefer odd numbers. ♾️
 
 <br>
 
@@ -56,7 +57,7 @@ Mon domaine de prédilection ? L'industrie aéronautique. Je suis intriguée par
 
 <br>
 
-|| 👋 ¡Hola! Soy @ikramagique.  
+|| 👋 ¡Hola! Soy @ikramagic.  
 || 👀 Apasionada por el mundo de la tecnología y del ¿qué es eso? Actualmente estoy sumergida en el universo de SQL, JavaScript, HTML, CSS, Ruby, Ruby on Rails y Next.js.  
 || 💞️ Siempre estoy en busca de proyectos que me inspiren y desafíen. ¿Tienes algo que despierte la curiosidad? ¡Estoy todo oídos!  
 || 📫 [Let's connect on Linkedin!](https://www.linkedin.com/in/ikrame-saadi/)  
@@ -69,7 +70,7 @@ Mon domaine de prédilection ? L'industrie aéronautique. Je suis intriguée par
 || Vivo a través del Mediterráneo, en el corazón de Europa. 🌊  
 || Entre el sur de Francia, mi tierra natal, la isla de Chipre, mi nuevo hogar, y Marruecos, mi cuna. ִ ࣪𖤐  
 || Entre tres de los cinco continentes. 🌍  
-|| Hablo francés, inglés, español y dos dialectos marroquíes. 🗣  
+|| Hablo francés, inglés, español y dos dialectos marroquíes. c  
 || Prefiero los números impares. ♾️
 
 <br>
