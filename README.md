@@ -21,17 +21,15 @@ Let's connect on Linkedin 📫
 
 <br>
 
-|| I live across the Mediterranean, in the heart of Europe. 🌊 South of France : my native land, the island of Cyprus : my new homeland, Morocco : my cradle.  ִ ࣪𖤐 Between 3 of the 5 continents. 🌍 I speak French, English, Spanish, and two Moroccan dialects. 🗣 Preference for odd numbers. ♾️
+I live across the Mediterranean, in the heart of Europe. 🌊 South of France : my native land, the island of Cyprus : my new homeland, Morocco : my cradle.  ִ ࣪𖤐 Between 3 of the 5 continents. 🌍 I speak French, English, Spanish, and two Moroccan dialects. 🗣 Preference for odd numbers. ♾️
 
 <br>
 
-Passionnée,  
-point.  
-"Dev"  
+passionnée_point.dev  
 
-Ruby, Rails, HTML, CSS et JavaScript. Je me forme aussi en SQL, Python.  
+Ruby, Rails, HTML, CSS et JavaScript. SQL. Python.  
 
-Mon domaine de prédilection ? L'industrie aéronautique. Je suis intriguée par les perspectives qu'offre l'intelligence artificielle, tout particulièrement dans l'automatisation des tâches.
+Intriguée par les perspectives qu'offre l'intelligence artificielle, tout particulièrement dans l'automatisation des tâches.
 
 <br>
 
@@ -78,5 +76,6 @@ ikramagic/ikramagic/ `README.md` ✅ (this file) is an ✨ sound-powered `README
 `README.md` (this file) ✅ appears on my GitHub 👋 profile.  
 🥏 I am also a DJ ! 👀  
 ⚡ 🔊 Come check my other portfolio and enjoy the 🔊 ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:99 🎺 [ⵍⵢⵓⴱⵓⴼ](https://www.youtube.com/playlist?list=PLNcTKDW0oKbxBDSO-XiHc-b3JNFTqdYvt) 🎺 & [come here if you like what you hear !](https://www.linkedin.com/in/ikrame-saadi/) 🔊 !⚡
-
 </details>
+
+<a href="https://www.youtube.com/watch?v=BTyQSIJAAgE" target="_blank">Wh@t mag🪄c ?!</a>
