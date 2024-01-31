@@ -7,7 +7,7 @@ You can 🌱 have yours too! 👀
 💞️ Enjoy the scrolling  
 Let's connect on Linkedin 📫
 
-<a href="https://www.youtube.com/watch?v=BTyQSIJAAgE" target="_blank">What Magic?</a>
+<a href="https://www.youtube.com/watch?v=BTyQSIJAAgE" target="_blank">Wh@t mag🪄c ?!</a>
 
 </details>
 
