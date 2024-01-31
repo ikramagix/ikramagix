@@ -21,11 +21,7 @@ Let's connect on Linkedin 📫
 
 <br>
 
-|| I live across the Mediterranean, in the heart of Europe. 🌊 
-|| South of France : my native land, the island of Cyprus : my new homeland, Morocco : my cradle.  ִ ࣪𖤐  
-|| Between three of the five continents.  🌍
-|| I speak French, English, Spanish, and two Moroccan dialects. 🗣
-|| I prefer odd numbers. ♾️
+|| I live across the Mediterranean, in the heart of Europe. 🌊 South of France : my native land, the island of Cyprus : my new homeland, Morocco : my cradle.  ִ ࣪𖤐 Between 3 of the 5 continents. 🌍 I speak French, English, Spanish, and two Moroccan dialects. 🗣 Preference for odd numbers. ♾️
 
 <br>
 
