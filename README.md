@@ -14,7 +14,7 @@ Let's connect on Linkedin 📫
 <br>
 
 || 👋 Hi, I’m @ikramagic  
-|| 👀 I’m interested in Angular, Python  
+|| 👀 I’m interested in Angular & Python  
 || 🌱 I’m currently learning SQL, JavaScript, HTML, CSS, Ruby, Ruby on Rails, Next.js  
 || 💞️ I’m looking to collaborate on anything inspiring, really?  
 || 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ikrame-saadi/)  
@@ -34,11 +34,10 @@ Intriguée par les perspectives qu'offre l'intelligence artificielle, tout parti
 <br>
 
 || 👋 Salut ! C'est @ikramagic !  
-|| 👀 Passionnée par l'univers du c'est quoi ça ? Je navigue actuellement dans les eaux du SQL, JavaScript, HTML, CSS, Ruby, Ruby on Rails, et Next.js.  
+|| 👀 Passionnée par l'univers du c'est quoi ça ? Du SQL, JavaScript, HTML, CSS, Ruby, Ruby on Rails, & Next.js.  
 || 💞️ Je suis toujours à la recherche de projets inspirants et stimulants. Vous avez quelque chose qui éveille la curiosité ? Je suis toute ouïe !  
 || 📫 [Let's connect on Linkedin](https://www.linkedin.com/in/ikrame-saadi/)  
 || 🫶 N'hésitez pas à m'envoyer un petit message, je suis toujours prête à échanger avec vous, esprits créatifs.  
-|| 🍑 Mon fruit préféré ? La pêche.  
 || 🦎 Mon animal préféré ? Le lézard.
 
 <br>
@@ -52,10 +51,10 @@ Intriguée par les perspectives qu'offre l'intelligence artificielle, tout parti
 <br>
 
 || 👋 ¡Hola! Soy @ikramagic.  
-|| 👀 Apasionada por el mundo de la tecnología y del ¿qué es eso? Actualmente estoy sumergida en el universo de SQL, JavaScript, HTML, CSS, Ruby, Ruby on Rails y Next.js.  
+|| 👀 Apasionada por el mundo de la tecnología y del ¿qué es eso? Del Ruby, SQL, JavaScript, HTML, CSS, Ruby on Rails y Next.js.  
 || 💞️ Siempre estoy en busca de proyectos que me inspiren y desafíen. ¿Tienes algo que despierte la curiosidad? ¡Estoy todo oídos!  
 || 📫 [Let's connect on Linkedin!](https://www.linkedin.com/in/ikrame-saadi/)  
-|| 🫶 No dudes en enviarme un mensaje, siempre estoy dispuesta a intercambiar ideas con mentes creativas (como tú ?)  
+|| 🫶 No duden en enviarme un mensaje, siempre estoy dispuesta a intercambiar ideas con mentes creativas como ustedes.
 || 🍑 ¿Mi fruta favorita? El durazno.  
 || 🦎 ¿Mi animal favorito? El lagarto.
 
