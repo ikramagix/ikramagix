@@ -17,7 +17,7 @@ Let's connect on Linkedin 📫
 || 👀 I’m interested in Angular & Python  
 || 🌱 I’m currently learning SQL, JavaScript, HTML, CSS, Ruby, Ruby on Rails, Next.js  
 || 💞️ I’m looking to collaborate on anything inspiring, really?  
-|| 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ikrame-saadi/)  
+|| 📫 Get in touch : [Linkedin](https://www.linkedin.com/in/ikrame-saadi/)  
 
 <br>
 
