@@ -11,13 +11,17 @@ You can 🌱 have yours too! 👀
 
 || 👋 Hi, I’m @ikramagic  
 || 👀 I’m interested in Angular & Python  
-|| 🌱 I’m currently learning SQL, JavaScript, HTML, CSS, Ruby, Ruby on Rails, Next.js  
+|| 🗣 I speak HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, JavaScript
+|| 🌱 I’m currently learning Next.js, PHP, Swift
 || 💞️ I’m looking to collaborate on anything inspiring, really?  
 || 📫 Get in touch : [Linkedin](https://www.linkedin.com/in/ikrame-saadi/)  
 
 <br>
 
-I live across the Mediterranean, in the heart of Europe. 🌊 South of France : my native land, the island of Cyprus : my new homeland, Morocco : my cradle.  ִ ࣪𖤐 Between 3 of the 5 continents. 🌍 I speak French, English, Spanish, and two Moroccan dialects. 🗣 Preference for odd numbers. ♾️
+I live across the Mediterranean, in the heart of Europe. 🌊 
+South of France : my native land, the island of Cyprus : my new homeland, Morocco : my cradle.  ִ ࣪𖤐 
+Between 3 of the 5 continents. 🌍 I speak French, English, Spanish, and two Moroccan dialects. 
+I have a preference for odd numbers. ♾️
 
 <br>
 
