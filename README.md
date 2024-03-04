@@ -27,20 +27,20 @@ I have a preference for odd numbers. ♾️
 
 passionnée_point.dev  
 
-Ruby, Rails, HTML, CSS, JavaScript, React, SQL et un peu de Python.  
+Ruby, Rails, HTML, CSS, JavaScript, React, SQL un peu de Python, de PHP & plein de bonnes ondes.  
 
 <br>
 
-|| 👋 Salut ! C'est @ikramagic !  
-|| 👀 Passionnée par l'univers du c'est quoi ça ? 
-|| 💞️ Je suis toujours à la recherche de projets inspirants et stimulants. Vous avez quelque chose qui éveille la curiosité ? Je suis toute ouïe !  
-|| 📫 [On discutre ?](https://www.linkedin.com/in/ikrame-saadi/)  
+|| 👋 Salut ! C'est @ikramagic !  <br>
+|| 👀 Passionnée par l'univers du c'est quoi ça ? <br>
+|| 💞️ Je suis toujours à la recherche de projets inspirants et stimulants. Vous avez quelque chose qui éveille la curiosité ? Je suis toute ouïe !  <br>
+|| 📫 [On discutre ?](https://www.linkedin.com/in/ikrame-saadi/)  <br>
 || 🫶 N'hésitez pas à m'envoyer un petit message, je suis toujours prête à échanger avec vous, esprits créatifs.  
 
 <br>
 
-|| Je vis à travers la Méditerranée, au cœur de l'(.🇪🇺)rope. 🌊  
-|| Entre le sud de la (.🇫🇷)ance, ma terre natale, l'île de Chypre(.🇨🇾), ma nouvelle patrie, et le (.🇲🇦)roc(+212), mon berceau. ִ ࣪𖤐  
-|| Entre trois des cinq continents. 🌍  
-|| Je parle français, anglais, espagnol, et deux dialectes marocains. 🗣  
-|| Je préfère les chiffres impairs. ♾️
+|| Je vis à travers la Méditerranée, au cœur de l'(.🇪🇺)rope. 🌊  <br>
+|| Entre le sud de la (.🇫🇷)ance, ma terre natale, l'île de Chypre(.🇨🇾), ma nouvelle patrie, et le (.🇲🇦)roc(+212), mon berceau. ִ ࣪𖤐  <br>
+|| Entre trois des cinq continents. 🌍  <br>
+|| Je parle français, anglais, espagnol, et deux dialectes marocains. 🗣  <br>
+|| Je préfère les chiffres impairs. ♾️ <br>
