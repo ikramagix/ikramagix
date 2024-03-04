@@ -32,7 +32,7 @@ Ruby, Rails, HTML, CSS, JavaScript, React, SQL et un peu de Python.
 <br>
 
 || 👋 Salut ! C'est @ikramagic !  
-|| 👀 Passionnée par l'univers du c'est quoi ça ? Du SQL, JavaScript, HTML, CSS, Ruby, Ruby on Rails, & Next.js.  
+|| 👀 Passionnée par l'univers du c'est quoi ça ? 
 || 💞️ Je suis toujours à la recherche de projets inspirants et stimulants. Vous avez quelque chose qui éveille la curiosité ? Je suis toute ouïe !  
 || 📫 [On discutre ?](https://www.linkedin.com/in/ikrame-saadi/)  
 || 🫶 N'hésitez pas à m'envoyer un petit message, je suis toujours prête à échanger avec vous, esprits créatifs.  
