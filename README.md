@@ -25,6 +25,10 @@ I have a preference for odd numbers. ♾️
 
 <br>
 
+[![ikrame's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikramagic)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 passionnée_point.dev  
 
 Ruby, Rails, HTML, CSS, JavaScript, React, SQL un peu de Python, de PHP & plein de bonnes ondes.  
