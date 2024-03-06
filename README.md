@@ -27,8 +27,6 @@ I have a preference for odd numbers. ♾️
 
 <div>
 <a href="https://github.com/ikramagic"><img src="https://streak-stats.demolab.com?user=ikramagic&theme=hacker" alt="Streak's Card" width="75%"></a>
-
-<a href="https://github.com/ikramagic"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikramagic&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&langs_count=5&layout=donut-vertical&hide_border=false" alt="Top Languagues Card" width="25%"></a>
 </div>
 
 <br>
