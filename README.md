@@ -25,8 +25,16 @@ I have a preference for odd numbers. ♾️
 
 <br>
 
-[![ikrame's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikramagic)](https://github.com/anuraghazra/github-readme-stats)
+[![ikrame's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikramagic)]
+</div>
 
+<a href="https://github.com/ikramagic"><img src="https://github-readme-stats.vercel.app/api?username=ikramagic&title_color=009ffd&text_color=eAf6ff&icon_color=c6a0f6&bg_color=080404&show_icons=true" alt="Stat's Card" width="100%"></a>
+
+<a href="https://github.com/ikramagic"><img src="[https://streak-stats.demolab.com?user=FajarKim&theme=catppuccin-macchiato](https://streak-stats.demolab.com?user=ikramagic&theme=hacker)" alt="Streak's Card" width="100%"></a>
+
+<a href="https://github.com/ikramagic"><img src="https://gh-readme-profile.vercel.app/api?username=ikramagic&theme=github_dark_highcontrast" alt="Profile Card" width="100%"></a>
+
+<a href="https://github.com/ikramagic"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikramagic&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&langs_count=20&layout=donut-vertical&hide_border=false" alt="Top Languagues Card" width="100%"></a>
 <br>
 
 passionnée_point.dev  
