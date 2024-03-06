@@ -11,8 +11,8 @@ You can 🌱 have yours too! 👀
 
 || 👋 Hi, I’m @ikramagic  <br>
 || 👀 I’m interested in Angular & Python  <br>
-|| 🗣 I speak HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, JavaScript <br>
-|| 🌱 I’m currently learning Next.js, PHP, Swift <br>
+|| 🗣 I speak HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, POstGreSQL, SQlite3 <br>
+|| 🌱 I’m currently learning Next.js, PHP, Swift, TypeScript <br>
 || 💞️ I’m looking to collaborate on anything inspiring, really?  <br>
 || 📫 Get in touch : [Linkedin](https://www.linkedin.com/in/ikrame-saadi/)  
 
@@ -20,7 +20,7 @@ You can 🌱 have yours too! 👀
 
 I live across the Mediterranean, in the heart of Europe. 🌊 <br>
 South of France : my native land, the island of Cyprus : my new homeland, Morocco : my cradle.  ִ ࣪𖤐 <br>
-Between 3 of the 5 continents. 🌍 I speak French, English, Spanish, and two Moroccan dialects. <br>
+Between 3 of the 5 continents 🌍 I speak French, English, Spanish, and two Moroccan dialects. <br>
 I have a preference for odd numbers. ♾️
 
 <br>
