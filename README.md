@@ -1,5 +1,5 @@
 <details>
-<summary>magic? 0:99 ───ㅇ───── 0:99 </summary>
+<summary>what's that magic? 0:10 ───ㅇ───── 1:01 </summary>
 
 ikramagic/ikramagic/ `README.md` ✅ (this file) is an ✨ ADHD-friendly `README.md` ✅ for y'all screen readers ✨  
 `README.md` (this file) ✅ appears on my GitHub 👋 profile.  
@@ -24,14 +24,15 @@ Between 3 of the 5 continents 🌍 I speak French, English, Spanish, and two Mor
 I have a preference for odd numbers. ♾️
 
 <br>
-<a href="https://github.com/ikramagic"><img src="https://github-readme-stats.vercel.app/api?username=ikramagic&title_color=009ffd&text_color=eAf6ff&icon_color=c6a0f6&bg_color=080404&show_icons=true" alt="Stat's Card" width="100%"></a>
 
-<a href="https://github.com/ikramagic"><img src="[https://streak-stats.demolab.com?user=ikramagic&github_dark_highcontrast](https://streak-stats.demolab.com?user=ikramagic&theme=hacker)" alt="Streak's Card" width="100%"></a>
+<div>
+<a href="https://github.com/ikramagic"><img src="https://gh-readme-profile.vercel.app/api?username=ikramagic&theme=github_dark_highcontrast" alt="Profile Card" width="50%"></a>
 
-<a href="https://github.com/ikramagic"><img src="https://gh-readme-profile.vercel.app/api?username=ikramagic&theme=github_dark_highcontrast" alt="Profile Card" width="100%"></a>
+<a href="https://github.com/ikramagic"><img src="https://streak-stats.demolab.com?user=ikramagic&theme=hacker" alt="Streak's Card" width="50%"></a>
 
-<a href="https://github.com/ikramagic"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikramagic&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&langs_count=10&layout=donut-vertical&hide_border=false" alt="Top Languagues Card" width="100%"></a>
+<a href="https://github.com/ikramagic"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikramagic&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&langs_count=10&layout=donut-vertical&hide_border=false" alt="Top Languagues Card" width="25%"></a>
 </div>
+
 <br>
 
 passionnée_point.dev  
