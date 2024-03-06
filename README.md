@@ -20,7 +20,7 @@ You can 🌱 have yours too! 👀
 
 I live across the Mediterranean, in the heart of Europe. 🌊 <br>
 South of France : my native land, the island of Cyprus : my new homeland, Morocco : my cradle.  ִ ࣪𖤐 <br>
-Between 3 of the 5 continents 🌍 I speak French, English, Spanish, and two Moroccan dialects. <br>
+Between 3 of the 5 continents 🌍 I speak French, English, Spanish, two Moroccan dialects (και λίγο από Ελληνικά). <br>
 I have a preference for odd numbers. ♾️
 
 <br>
@@ -48,5 +48,5 @@ Ruby, Rails, HTML, CSS, JavaScript, React, SQL un peu de Python, de PHP & plein 
 || Je vis à travers la Méditerranée, au cœur de l'(.🇪🇺)rope. 🌊  <br>
 || Entre le sud de la (.🇫🇷)ance, ma terre natale, l'île de Chypre(.🇨🇾), ma nouvelle patrie, et le (.🇲🇦)roc(+212), mon berceau. ִ ࣪𖤐  <br>
 || Entre trois des cinq continents. 🌍  <br>
-|| Je parle français, anglais, espagnol, et deux dialectes marocains. 🗣  <br>
+|| Je parle français, anglais, espagnol, deux dialectes marocains et un peu de grec. 🗣  <br>
 || Je préfère les chiffres impairs. ♾️ <br>
