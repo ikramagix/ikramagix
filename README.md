@@ -14,7 +14,7 @@ You can 🌱 have yours too! 👀
 || 🗣 I speak HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, POstGreSQL, SQlite3 <br>
 || 🌱 I’m currently learning Next.js, PHP, Swift, TypeScript <br>
 || 💞️ I’m looking to collaborate on anything inspiring, really?  <br>
-|| 📫 Get in touch : [Linkedin](https://www.linkedin.com/in/ikrame-saadi/)  
+|| 📫 Get in touch: [em@il me](mailto:ikrame.saadi@gmail.com)
 
 <br>
 
