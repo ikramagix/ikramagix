@@ -11,7 +11,7 @@ You can 🌱 have yours too! 👀
 
 || 👋 Hi, I’m @ikramagic  <br>
 || 👀 I’m interested in Angular & Python  <br>
-|| 🗣 I speak HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, POstGreSQL, SQlite3 <br>
+|| 🗣 I speak HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQlite3 <br>
 || 🌱 I’m currently learning Next.js, PHP, Swift, TypeScript <br>
 || 💞️ I’m looking to collaborate on anything inspiring, really?  <br>
 || 📫 Get in touch: [em@il me](mailto:ikrame.saadi@gmail.com)
@@ -40,7 +40,7 @@ Ruby, Rails, HTML, CSS, JavaScript, React, SQL un peu de Python, de PHP & plein 
 || 👋 Salut ! C'est @ikramagic !  <br>
 || 👀 Passionnée par l'univers du c'est quoi ça ? <br>
 || 💞️ Je suis toujours à la recherche de projets inspirants et stimulants. Vous avez quelque chose qui éveille la curiosité ? Je suis toute ouïe !  <br>
-|| 📫 Papotons : [Qui appelle ça un courriel ?](mailto:ikrame.saadi@gmail.com) <br>
+|| 📫 Papotons : [Mais qui appelle ça un courriel ?](mailto:ikrame.saadi@gmail.com) <br>
 || 🫶 N'hésitez pas à m'envoyer un petit message, je suis toujours prête à échanger avec vous, esprits créatifs.  
 
 <br>
