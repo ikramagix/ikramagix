@@ -40,7 +40,7 @@ Ruby, Rails, HTML, CSS, JavaScript, React, SQL un peu de Python, de PHP & plein 
 || 👋 Salut ! C'est @ikramagic !  <br>
 || 👀 Passionnée par l'univers du c'est quoi ça ? <br>
 || 💞️ Je suis toujours à la recherche de projets inspirants et stimulants. Vous avez quelque chose qui éveille la curiosité ? Je suis toute ouïe !  <br>
-|| 📫 [Qui dit courriel d'abord ?](mailto:ikrame.saadi@gmail.com) <br>
+|| 📫 Papotons : [Qui appelle ça un courriel ?](mailto:ikrame.saadi@gmail.com) <br>
 || 🫶 N'hésitez pas à m'envoyer un petit message, je suis toujours prête à échanger avec vous, esprits créatifs.  
 
 <br>
