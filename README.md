@@ -9,12 +9,12 @@ You can 🌱 have yours too! 👀
 
 <br>
 
-|| 👋 Hi, I’m @ikramagic  <br>
-|| 👀 I’m interested in Angular & Python  <br>
-|| 🗣 I speak HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQlite3 <br>
-|| 🌱 I’m currently learning Next.js, PHP, Swift, TypeScript <br>
-|| 💞️ I’m looking to collaborate on anything inspiring, really?  <br>
-|| 📫 Get in touch: [em@il me](mailto:ikrame.saadi@gmail.com)
+👋 Hi, I’m @ikramagic  <br>
+👀 I’m interested in Angular & Python  <br>
+🗣 I speak HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQlite3 <br>
+🌱 I’m currently learning Next.js, PHP, Swift, TypeScript <br>
+💞️ I’m looking to collaborate on anything inspiring, really?  <br>
+📫 Get in touch: [em@il me](mailto:ikrame.saadi@gmail.com)
 
 <br>
 
