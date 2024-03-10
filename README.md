@@ -26,7 +26,7 @@ I have a preference for odd numbers. ♾️
 <br>
 
 <div>
-<a href="https://github.com/ikramagic"><img src="https://streak-stats.demolab.com?user=ikramagic&theme=hacker" alt="Streak's Card" width="100%"></a>
+<a href="https://github.com/ikramagic"><img src="https://streak-stats.demolab.com?user=ikramagic&theme=hacker" alt="Streak's Card" width="25%"></a>
 </div>
 
 <br>
