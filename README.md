@@ -1,5 +1,5 @@
 <details>
-<summary>what's that magic? 0:10 ───ㅇ───── 1:01 </summary>
+<summary>what's that magic? 0:10 ───ㅇ───── 1:01 (click on me!)</summary>
 
 ikramagic/ikramagic/ `README.md` ✅ (this file) is an ✨ ADHD-friendly `README.md` ✅ for y'all screen readers ✨  
 `README.md` (this file) ✅ appears on my GitHub 👋 profile.  
