@@ -11,8 +11,8 @@ You can 🌱 have yours too! 👀
 
 👋 Hi, I’m [@ikramagic](https://ikramagicolio.vercel.app/) !<br>
 👀 I’m interested in Angular & Python  <br>
-🗣 I speak HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQlite3 <br>
-🌱 I’m currently learning Next.js, PHP, Swift, TypeScript <br>
+🗣 I speak HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQlite3, Node.js, Next.js<br>
+🌱 I’m currently learning PHP, Dart, TypeScript <br>
 💞️ I’m looking to collaborate on anything inspiring, really?  <br>
 📫 Get in touch: [em@il me](mailto:ikrame.saadi@gmail.com)
 
@@ -20,7 +20,7 @@ You can 🌱 have yours too! 👀
 
 I live across the Mediterranean, in the heart of Europe. 🌊 <br>
 South of France : my native land, the island of Cyprus : my new homeland, Morocco : my cradle.  ִ ࣪𖤐 <br>
-Between 3 of the 5 continents 🌍 I speak French, English, Spanish, two Moroccan dialects (και λίγο από Ελληνικά). <br>
+Between 3 of the 5 continents 🌍 I speak French, English, Spanish, Arabic, and two Moroccan dialects (και λίγο από Ελληνικά). <br>
 I have a preference for odd numbers. ♾️
 
 <br>
@@ -28,12 +28,6 @@ I have a preference for odd numbers. ♾️
 <div>
 <a href="https://github.com/ikramagic"><img src="https://streak-stats.demolab.com?user=ikramagic&theme=hacker" alt="Streak's Card" width="75%"></a>
 </div>
-
-<br>
-
-passionnée_point.dev  
-
-Ruby, Rails, HTML, CSS, JavaScript, React, SQL un peu de Python, de PHP & plein de bonnes ondes.  
 
 <br>
 
@@ -46,7 +40,7 @@ Ruby, Rails, HTML, CSS, JavaScript, React, SQL un peu de Python, de PHP & plein 
 <br>
 
 Je vis à travers la Méditerranée, au cœur de l'(.🇪🇺)rope. 🌊  <br>
-Entre le sud de la (.🇫🇷)ance, ma terre natale, l'île de Chypre(.🇨🇾), ma nouvelle patrie, et le (.🇲🇦)roc(+212), mon berceau. ִ ࣪𖤐  <br>
+Entre le sud de la France, ma terre natale, l'île de Chypre, ma nouvelle patrie, et le Maroc, mon berceau. ࣪𖤐  <br>
 Entre trois des cinq continents. 🌍  <br>
 Je parle français, anglais, espagnol, deux dialectes marocains et un peu de grec. 🗣  <br>
 Je préfère les chiffres impairs. ♾️ <br>
