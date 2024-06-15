@@ -9,7 +9,7 @@ You can 🌱 have yours too! 👀
 
 <br>
 
-👋 Hi, I’m [@ikramagic](https://ikramagicolio.vercel.app/) !<br>
+👋 Hi, I’m [@ikramagix](https://ikramagicolio.vercel.app/) !<br>
 👀 I’m interested in Angular & Python  <br>
 🗣 I speak HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQlite3, Node.js, Next.js<br>
 🌱 I’m currently learning PHP, Dart, TypeScript <br>
@@ -31,7 +31,7 @@ I have a preference for odd numbers. ♾️
 
 <br>
 
-👋 Salut ! C'est [@ikramagic](https://ikramagicolio.vercel.app/) !  <br>
+👋 Salut ! C'est [@ikramagix](https://ikramagicolio.vercel.app/) !  <br>
 👀 Passionnée par l'univers du c'est quoi ça ? <br>
 💞️ Je suis toujours à la recherche de projets inspirants et stimulants. Vous avez quelque chose qui éveille la curiosité ? Je suis toute ouïe !  <br>
 📫 Papotons : [Mais qui appelle ça un courriel ?](mailto:ikrame.saadi@gmail.com) <br>
