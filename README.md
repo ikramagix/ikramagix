@@ -34,3 +34,5 @@ I live across the Mediterranean, in the heart of Europe. South of France : my na
 <div>
 <a href="https://github.com/ikramagix"><img src="https://streak-stats.demolab.com?user=ikramagix&theme=hacker" alt="Streak's Card" width="75%"></a>
 </div>
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ikramagix" data-color="#FFDD00" data-emoji=""  data-font="Poppins" data-text="merci for the tip" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
