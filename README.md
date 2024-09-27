@@ -5,6 +5,12 @@ ikramagic/ikramagic/ `README.md` ✅ (this file) is an ✨ ADHD-friendly `README
 `README.md` (this file) ✅ appears on my GitHub 👋 profile.  
 You can 🌱 yours too! 👀  
 💞️ Enjoy the scrolling  
+
+👋 Salut ! C'est [@ikramagix](https://www.ikramagix.com/) à l'appareil !  <br>
+👀 Passionnée par l'univers du c'est quoi ça ? <br>
+💞️ Je suis toujours à la recherche de projets inspirants et stimulants. Vous avez quelque chose qui éveille la curiosité ? Je suis toute ouïe !  <br>
+📫 Papotons : [Mais qui appelle ça un courriel ?](mailto:hello@ikramagix.com) <br>
+🫶 N'hésitez pas à m'envoyer un petit message, tout seul on va plus vite, ensemble on va plus loin. 
 </details>
 
 <br>
@@ -19,19 +25,10 @@ You can 🌱 yours too! 👀
 
 <br>
 
-I live across the Mediterranean, in the heart of Europe. South of France : my native land, the island of Cyprus : my new homeland, Morocco : my cradle.  ִ ࣪𖤐 <br>
-Between 3 of the 5 continents, I speak French, English, Spanish, Arabic, and two Moroccan dialects (και λίγο από Ελληνικά).
+I live across the Mediterranean, in the heart of Europe. South of France : my native land, the island of Cyprus : my new homeland, Morocco : my cradle.  ִ ࣪𖤐 Between 3 of the 5 continents, I speak French, English, Spanish, Arabic, and two Moroccan dialects (και λίγο από Ελληνικά).
 
 <br>
 
 <div>
 <a href="https://github.com/ikramagix"><img src="https://streak-stats.demolab.com?user=ikramagix&theme=hacker" alt="Streak's Card" width="65%"></a>
 </div>
-
-<br>
-
-👋 Salut ! C'est [@ikramagix](https://www.ikramagix.com/) à l'appareil !  <br>
-👀 Passionnée par l'univers du c'est quoi ça ? <br>
-💞️ Je suis toujours à la recherche de projets inspirants et stimulants. Vous avez quelque chose qui éveille la curiosité ? Je suis toute ouïe !  <br>
-📫 Papotons : [Mais qui appelle ça un courriel ?](mailto:hello@ikramagix.com) <br>
-🫶 N'hésitez pas à m'envoyer un petit message, tout seul on va plus vite, ensemble on va plus loin. 
