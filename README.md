@@ -20,7 +20,7 @@ You can 🌱 yours too! 👀
 🗣 I speak HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQlite3, Node.js, Next.js<br>
 🌱 I’m currently learning PHP, Dart, TypeScript <br>
 💞️ I’m looking to collaborate on anything inspiring, really?  <br>
-📫 Get in touch: [em@il me](mailto:hello@ikramagix.com)
+📫 Get in touch: [em@il me](mailto:hello@ikramagix.com) <br>
 ♾️ I have a preference for odd numbers.
 
 <br>
