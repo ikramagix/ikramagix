@@ -25,10 +25,6 @@ You can 🌱 yours too! 👀
 
 <br>
 
-<a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 117px !important;" ></a>
-
-<br>
-
 I live across the Mediterranean, in the heart of Europe. South of France : my native land, the island of Cyprus : my new homeland, Morocco : my cradle.  ִ ࣪𖤐 Between 3 of the 5 continents, I speak French, English, Spanish, Arabic, and two Moroccan dialects (και λίγο από Ελληνικά).
 
 <br>
@@ -36,3 +32,7 @@ I live across the Mediterranean, in the heart of Europe. South of France : my na
 <div>
 <a href="https://github.com/ikramagix"><img src="https://streak-stats.demolab.com?user=ikramagix&theme=hacker" alt="Streak's Card" width="75%"></a>
 </div>
+
+<br>
+
+<a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 117px !important;" ></a>
