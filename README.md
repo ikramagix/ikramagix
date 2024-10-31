@@ -25,10 +25,6 @@ You can 🌱 yours too! 👀
 
 <br>
 
-I live across the Mediterranean, in the heart of Europe. South of France : my native land, the island of Cyprus : my new homeland, Morocco : my cradle.  ִ ࣪𖤐 Between 3 of the 5 continents, I speak French, English, Spanish, Arabic, and two Moroccan dialects (και λίγο από Ελληνικά).
-
-<br>
-
 <div>
 <a href="https://github.com/ikramagix"><img src="https://streak-stats.demolab.com?user=ikramagix&theme=hacker" alt="Streak's Card" width="75%"></a>
 </div>
@@ -39,3 +35,7 @@ I live across the Mediterranean, in the heart of Europe. South of France : my na
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=ikramagix&label=Profile%20Views&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
+
+<br>
+
+I live across the Mediterranean, in the heart of Europe. South of France : my native land, the island of Cyprus : my new homeland, Morocco : my cradle.  ִ ࣪𖤐 Between 3 of the 5 continents, I speak French, English, Spanish, Arabic, and two Moroccan dialects (και λίγο από Ελληνικά).
