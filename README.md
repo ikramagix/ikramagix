@@ -17,7 +17,7 @@ You can 🌱 yours too! 👀
 
 👋 Hi, I’m [@ikramagix](https://www.ikramagix.com/) !<br>
 👀 I’m interested in Angular & Python  <br>
-🗣 I speak HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQlite3, Node.js, Next.js<br>
+🗣 I speak HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQL, Node.js, Next.js<br>
 🌱 I’m currently learning PHP, Dart, TypeScript <br>
 💞️ I’m looking to collaborate on anything inspiring, really?<br>
 📫 Get in touch: [em@il me](mailto:hello@ikramagix.com) <br>
