@@ -26,7 +26,7 @@ You can 🌱 yours too! 👀
 <br>
 
 <div>
-<a href="https://github.com/ikramagix"><img src="https://streak-stats.demolab.com?user=ikramagix&theme=hacker" alt="Streak's Card" width="50%"></a>
+<a href="https://github.com/ikramagix"><img src="https://streak-stats.demolab.com?user=ikramagix&theme=hacker" alt="Streak's Card" width="80%"></a>
 </div>
 
 <br>
