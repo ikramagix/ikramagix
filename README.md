@@ -26,14 +26,12 @@ You can 🌱 yours too! 👀
 <br>
 
 <div>
-<a href="https://github.com/ikramagix"><img src="https://streak-stats.demolab.com?user=ikramagix&theme=hacker" alt="Streak's Card" width="80%"></a>
+<a href="https://github.com/ikramagix"><img src="https://streak-stats.demolab.com?user=ikramagix&theme=hacker" alt="Streak's Card" width="75%"></a>
 </div>
 
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=ikramagix&label=Profile%20Views&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
-
-<br>
 
 ⭐ Enjoying my open-source projects like Faussaire ? Say thank you with a coffee ! ⭐
 
