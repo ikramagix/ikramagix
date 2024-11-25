@@ -29,8 +29,6 @@ You can 🌱 yours too! 👀
 
 [![](https://visitcount.itsvg.in/api?id=ikramagix&label=Profile%20Views&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
-<br>
-
 ⭐ Enjoying my open-source projects like Faussaire ? Say thank you with a coffee ! ⭐
 
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 117px !important;" ></a>
