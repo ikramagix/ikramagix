@@ -25,9 +25,9 @@ You can 🌱 yours too! 👀
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=ikramagix&label=Profile%20Views&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ikramagix&theme=javascript-dark)](https://git.io/streak-stats)
+
+[![](https://visitcount.itsvg.in/api?id=ikramagix&label=Profile%20Views&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 <br>
 
