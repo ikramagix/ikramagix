@@ -25,9 +25,9 @@ You can 🌱 yours too! 👀
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ikramagix&theme=javascript-dark)](https://git.io/streak-stats)
+![ikramagix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikramagix&theme=great-gatsby&hide_border=true)
 
-![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
 
 <br>
 
