@@ -32,3 +32,7 @@ You can 🌱 yours too! 👀
 ⭐ Enjoying my open-source projects like Faussaire ? Say thank you with a coffee ! ⭐
 
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 117px !important;" ></a>
+
+<br>
+
+![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
