@@ -3,8 +3,10 @@
 
 ikramagic/ikramagic/ `README.md` ✅ (this file) is an ✨ ADHD-friendly `README.md` ✅ for y'all screen readers ✨  
 `README.md` (this file) ✅ appears on my GitHub 👋 profile.  
-You can 🌱 yours too! 👀  
-💞️ Enjoy the scrolling  
+You can 🌱 yours too! 👀
+💞️ Enjoy the scrolling
+
+[![Visits Badge](https://badges.pufler.dev/visits/ikramagix/badge-it)](https://badges.pufler.dev)
 
 👋 Salut ! C'est [@ikramagix](https://www.ikramagix.com/) à l'appareil !  <br>
 👀 Passionnée par l'univers du c'est quoi ça ? <br>
@@ -28,8 +30,6 @@ You can 🌱 yours too! 👀
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=ikramagix&theme=hacker)](https://git.io/streak-stats)
 
 ![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
-
-[![Visits Badge](https://badges.pufler.dev/visits/ikramagix/badge-it)](https://badges.pufler.dev)
 
 ⭐ Enjoying my open-source projects like Faussaire ? Say thank you with a coffee ! ⭐
 
