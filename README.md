@@ -33,7 +33,5 @@
   <img 
     src="https://i.ibb.co/tP37SFx/cuphead-thx-nobg.png" 
     alt="Buy Me A Coffee" 
-    border="0" 
-    style="text-align: center; max-width: 50%; height: auto;"
-  >
+    width="400">
 </a>
