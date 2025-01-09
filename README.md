@@ -1,10 +1,10 @@
+<div align="center">
 <details>
 <summary>what's that magic? 0:10 ───ㅇ───── 1:01 </summary>
 [![Visits Badge](https://badges.pufler.dev/visits/ikramagix/badge-it)](https://badges.pufler.dev)
 </details>
-
+</div>
 <br>
-
 <div align="center">
 👋 Hi, I’m [@ikramagix](https://www.ikramagix.com/) !<br>
 👀 I’m interested in Angular & Python  <br>
