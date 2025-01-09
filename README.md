@@ -22,9 +22,9 @@
 
 <br>
 
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=ikramagix&theme=hacker)](https://git.io/streak-stats)
+| [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=ikramagix&theme=hacker)](https://git.io/streak-stats) | ![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true) |
+| --- | --- |
 
-![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
 
 <hr>
 ⭐ Enjoying open-source projects like Faussaire ? ⭐ Thank you for saying thank you ! ⭐ All donations are shared with contributors! ⭐ 
