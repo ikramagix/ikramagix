@@ -28,7 +28,7 @@
 
 <hr>
 ⭐ Enjoying open-source projects like Faussaire ? ⭐ Thank you for saying thank you ! ⭐ All donations are shared with contributors! ⭐ 
-<hr>
+<br>
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank">
   <img 
     src="https://i.ibb.co/tP37SFx/cuphead-thx-nobg.png" 
