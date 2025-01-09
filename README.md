@@ -21,7 +21,8 @@
 <div align="center">
 
 ⭐ Enjoying open-source projects like Faussaire? ⭐  
-Thank you for saying thank you! ⭐ All donations are shared with contributors! ⭐  
+⭐ Thank you for saying thank you! ⭐ 
+⭐ All donations are shared with Faussaire contributors! ⭐  
 
 <br>
 
@@ -31,7 +32,4 @@ Thank you for saying thank you! ⭐ All donations are shared with contributors! 
     alt="Buy Me A Coffee" 
     width="400">
 </a>
-
-<hr>
-
 </div>
