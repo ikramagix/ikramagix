@@ -20,7 +20,7 @@
 📫 Get in touch: [em@il me](mailto:hello@ikramagix.com) <br>
 ♾️ I have a preference for odd numbers.
 
-<hr>
+<br>
 
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=ikramagix&theme=hacker)](https://git.io/streak-stats)
 
@@ -28,8 +28,7 @@
 
 <hr>
 
-⭐ Enjoying my open-source projects like Faussaire ? ⭐
-⭐ Thank you for saying thank you with a coffee ! ⭐ <br>
+⭐ Enjoying my open-source projects like Faussaire ? ⭐ Thank you for saying thank you with a coffee ! ⭐ 
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 117px !important;" ></a><br>
 <br>
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://i.ibb.co/tP37SFx/cuphead-thx-nobg.png" alt="cuphead-thx-nobg" border="0"></a>
