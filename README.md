@@ -1,11 +1,6 @@
 <details>
 <summary>what's that magic? 0:10 ───ㅇ───── 1:01 </summary>
 
-ikramagic/ikramagic/ `README.md` ✅ (this file) is an ✨ ADHD-friendly `README.md` ✅ for y'all screen readers ✨  
-`README.md` (this file) ✅ appears on my GitHub 👋 profile.  
-You can 🌱 yours too! 👀
-💞️ Enjoy the scrolling
-
 [![Visits Badge](https://badges.pufler.dev/visits/ikramagix/badge-it)](https://badges.pufler.dev)
 
 👋 Salut ! C'est [@ikramagix](https://www.ikramagix.com/) à l'appareil !  <br>
@@ -19,8 +14,8 @@ You can 🌱 yours too! 👀
 
 👋 Hi, I’m [@ikramagix](https://www.ikramagix.com/) !<br>
 👀 I’m interested in Angular & Python  <br>
-🗣 I speak HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQL, Node.js, Next.js<br>
-🌱 I’m currently learning PHP, Dart, TypeScript <br>
+🗣 I speak PHP, HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQL, Node.js, Next.js<br>
+🌱 I’m currently learning Laravel, Dart, TypeScript <br>
 💞️ I’m looking to collaborate on anything inspiring, really?<br>
 📫 Get in touch: [em@il me](mailto:hello@ikramagix.com) <br>
 ♾️ I have a preference for odd numbers.
@@ -31,6 +26,7 @@ You can 🌱 yours too! 👀
 
 ![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
 
-⭐ Enjoying my open-source projects like Faussaire ? Say thank you with a coffee ! ⭐
-
+⭐ Enjoying my open-source projects like Faussaire ? Thank you for saying thank you with a coffee ! ⭐
+<a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://i.ibb.co/tP37SFx/cuphead-thx-nobg.png" alt="cuphead-thx-nobg" border="0"></a>
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 117px !important;" ></a>
+
