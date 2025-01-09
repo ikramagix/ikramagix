@@ -28,7 +28,8 @@
 
 <hr>
 
-⭐ Enjoying my open-source projects like Faussaire ? ⭐ Thank you for saying thank you with a coffee ! ⭐ 
+⭐ Enjoying my open-source projects like Faussaire ? ⭐ Thank you for saying thank you ! ⭐ 
+<hr>
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 117px !important;" ></a><br>
 <br>
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://i.ibb.co/tP37SFx/cuphead-thx-nobg.png" alt="cuphead-thx-nobg" border="0"></a>
