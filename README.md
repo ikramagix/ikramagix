@@ -5,6 +5,7 @@
 
 <br>
 
+<div align="center">
 👋 Hi, I’m [@ikramagix](https://www.ikramagix.com/) !<br>
 👀 I’m interested in Angular & Python  <br>
 🗣 I speak PHP, HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQL, Node.js, Next.js<br>
@@ -12,6 +13,7 @@
 💞️ I’m looking to collaborate on anything inspiring, really?<br>
 📫 Get in touch: [em@il me](mailto:hello@ikramagix.com) <br>
 ♾️ I have a preference for odd numbers.
+</div>
 
 <br>
 
