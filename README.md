@@ -15,9 +15,9 @@
 👀 I’m interested in Python <br>
 🗣 I speak PHP, HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQL, Node.js, Next.js<br>
 🌱 I’m currently learning Laravel, Python and TypeScript <br>
-💞️ I’m looking to collaborate on anything inspiring, really? Let's talk!<br>
-📫 Get in touch: [em@il me](mailto:hello@ikramagix.com) <br>
-♾️ I have a preference for odd numbers.
+💞️ I’m looking to collaborate! Let's talk!<br>
+📫 Get in touch: <a href="mailto:hello@ikramagix.com">em@il me</a>
+♾️ fUn FaCt: I have a preference for odd numbers.
 </div>
 
 <br>
