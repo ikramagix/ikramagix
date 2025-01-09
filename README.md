@@ -29,8 +29,11 @@
 <hr>
 ⭐ Enjoying open-source projects like Faussaire ? ⭐ Thank you for saying thank you ! ⭐ All donations are shared with contributors! ⭐ 
 <hr>
-<a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"></a> 
-<br>
-<a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://i.ibb.co/tP37SFx/cuphead-thx-nobg.png" alt="cuphead-thx-nobg" border="0" style="text-align: center;"></a>
-
-
+<a href="https://www.buymeacoffee.com/ikramagix" target="_blank">
+  <img 
+    src="https://i.ibb.co/tP37SFx/cuphead-thx-nobg.png" 
+    alt="Buy Me A Coffee" 
+    border="0" 
+    style="text-align: center; max-width: 50%; height: auto;"
+  >
+</a>
