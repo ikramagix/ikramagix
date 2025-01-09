@@ -1,7 +1,11 @@
 <div align="center">
 <details>
 <summary>what's that magic? 0:10 ───ㅇ───── 1:01 </summary>
-[![Visits Badge](https://badges.pufler.dev/visits/ikramagix/badge-it)](https://badges.pufler.dev)
+<p align="center">
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/ikramagix/badge-it" alt="Visits Badge">
+  </a>
+</p>
 </details>
 </div>
 <br>
