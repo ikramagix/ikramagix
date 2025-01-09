@@ -2,6 +2,7 @@
 <details>
 <summary>what's that magic? 0:10 ───ㅇ───── 1:01 </summary>
 <p align="center">
+  <br>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/ikramagix/badge-it" alt="Visits Badge">
   </a>
