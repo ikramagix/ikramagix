@@ -11,7 +11,7 @@
 </div>
 <br>
 <div align="center">
-👋 Hi, I’m [@ikramagix](https://www.ikramagix.com/) !<br>
+👋 Hi, I’m @ikramagix and you can find out more about me on <a href="ikramagix.com">!<br>
 👀 I’m interested in Angular & Python  <br>
 🗣 I speak PHP, HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQL, Node.js, Next.js<br>
 🌱 I’m currently learning Laravel, Dart, TypeScript <br>
