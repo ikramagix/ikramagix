@@ -29,9 +29,7 @@ You can 🌱 yours too! 👀
 
 ![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
 
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=ikramagix&label=Profile%20Views&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
+[![Visits Badge](https://badges.pufler.dev/visits/ikramagix/badge-it)](https://badges.pufler.dev)
 
 ⭐ Enjoying my open-source projects like Faussaire ? Say thank you with a coffee ! ⭐
 
