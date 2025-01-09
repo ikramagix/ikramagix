@@ -35,3 +35,4 @@
     alt="Buy Me A Coffee" 
     width="400">
 </a>
+<hr>
