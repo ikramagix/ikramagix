@@ -18,12 +18,20 @@
 | [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=ikramagix&theme=hacker)](https://git.io/streak-stats) | ![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true) |
 | --- | --- |
 
-⭐ Enjoying open-source projects like Faussaire ? ⭐ Thank you for saying thank you ! ⭐ All donations are shared with contributors! ⭐ 
+<div align="center">
+
+⭐ Enjoying open-source projects like Faussaire? ⭐  
+Thank you for saying thank you! ⭐ All donations are shared with contributors! ⭐  
+
 <br>
+
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank">
   <img 
     src="https://i.ibb.co/tP37SFx/cuphead-thx-nobg.png" 
     alt="Buy Me A Coffee" 
     width="400">
 </a>
+
 <hr>
+
+</div>
