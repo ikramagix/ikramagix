@@ -30,6 +30,6 @@
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://i.ibb.co/tP37SFx/cuphead-thx-nobg.png" alt="cuphead-thx-nobg" border="0" style="text-align: center;"></a>
 
 <hr>
-⭐ Enjoying my open-source projects like Faussaire ? ⭐ Thank you for saying thank you ! ⭐ All donations are shared with contributors! ⭐ 
+⭐ Enjoying open-source projects like Faussaire ? ⭐ Thank you for saying thank you ! ⭐ All donations are shared with contributors! ⭐ 
 <hr>
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"></a> 
