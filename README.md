@@ -27,7 +27,9 @@
 ![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
 
 <hr>
+<a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 117px !important;" ></a> 
+<br> 
 ⭐ Enjoying my open-source projects like Faussaire ? ⭐ Thank you for saying thank you ! ⭐ 
-<a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 117px !important;" ></a><br>
+<a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 117px !important;" ></a>
 <br>
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank"><img src="https://i.ibb.co/tP37SFx/cuphead-thx-nobg.png" alt="cuphead-thx-nobg" border="0" style="text-align: center;"></a>
