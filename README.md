@@ -1,16 +1,4 @@
 <div align="center">
-<details>
-<summary>what's that magic? 0:10 ───ㅇ───── 1:01 </summary>
-<p align="center">
-  <br>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/ikramagix/badge-it" alt="Visits Badge">
-  </a>
-</p>
-</details>
-</div>
-<br>
-<div align="center">
 👋 Hi, I’m @ikramagix and you can find out more about my work if you visit <a href="ikramagix.com">my portfolio</a>!<br>
 👀 I’m interested in Python <br>
 🗣 I speak PHP, HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQL, Node.js, Next.js<br>
