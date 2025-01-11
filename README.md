@@ -1,5 +1,5 @@
 <div align="center">
-👋 Hi, I’m @ikramagix and you can find out more about my work if you visit <a href="ikramagix.com">my portfolio</a> !<br>
+👋 Hi, I’m <a href="https://ikramagix.com" target="_blank">@ikramagix</a> !<br>
 👀 I’m really into learning new things.<br>
 🗣 I speak PHP, HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQL, Node.js, Next.js<br>
 🌱 I’m currently learning Laravel, Python and TypeScript <br>
