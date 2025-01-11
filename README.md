@@ -1,6 +1,6 @@
 <div align="center">
 👋 Hi, I’m @ikramagix and you can find out more about my work if you visit <a href="ikramagix.com">my portfolio</a> !<br>
-👀 I’m really into Python lately<br>
+👀 I’m really into learning new things.<br>
 🗣 I speak PHP, HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQL, Node.js, Next.js<br>
 🌱 I’m currently learning Laravel, Python and TypeScript <br>
 💞️ I’m looking to collaborate! Let's talk!<br>
@@ -25,6 +25,6 @@
   <img 
     src="https://i.ibb.co/tP37SFx/cuphead-thx-nobg.png" 
     alt="Buy Me A Coffee" 
-    width="250">
+    width="150">
 </a>
 </div>
