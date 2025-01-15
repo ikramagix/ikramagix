@@ -13,9 +13,7 @@
 | [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=ikramagix&theme=hacker)](https://git.io/streak-stats) |
 | --- |
 | ![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true) |
-| --- |
-
-<div align="center">
+| <div align="center">
 
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank">
   <img 
@@ -24,3 +22,4 @@
     width="150">
 </a>
 </div>
+ |
