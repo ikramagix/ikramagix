@@ -10,7 +10,6 @@
 
 <br>
 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=ikramagix&theme=highcontrast)](https://git.io/streak-stats) |
 | --- |
 | ![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true) |
 
