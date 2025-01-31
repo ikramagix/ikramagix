@@ -11,13 +11,14 @@
 <br>
 
 ![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
+![ikramagix's Sololearn 2023](https://i.ibb.co/BHwB0WDp/IMG-2403.jpg)
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank">
   <img 
     src="https://i.ibb.co/tP37SFx/cuphead-thx-nobg.png" 
     alt="Buy Me A Coffee" 
-    width="150">
+    width="100">
 </a>
 </div>
