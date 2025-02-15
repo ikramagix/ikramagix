@@ -11,7 +11,6 @@
 <br>
 
 <div align="center">
-  ![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank">
   <img 
     src="https://i.ibb.co/tP37SFx/cuphead-thx-nobg.png" 
@@ -19,3 +18,7 @@
     width="100">
 </a>
 </div>
+
+<br>
+  ![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
+
