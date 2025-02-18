@@ -11,8 +11,9 @@
 <br>
 
 <div align="center">
-
-![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
+  
+![ikramagix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikramagix&theme=chartreuse-dark&hide_border=true)
+![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 
 <a href="https://www.buymeacoffee.com/ikramagix" target="_blank">
   <img 
