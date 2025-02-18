@@ -4,7 +4,7 @@
 🗣 I speak PHP, HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQL, Node.js, Next.js<br>
 🌱 I’m currently learning Laravel, Python and TypeScript <br>
 💞️ I’m looking to collaborate! Let's talk!<br>
-📫 Get in touch: <a href="mailto:hello@ikramagix.com">em@il me</a> <br>
+📫 Get in touch: I'm old school so <a href="mailto:hello@ikramagix.com">em@il me</a><br>
 ♾️ fUn FaCt: I have a preference for odd numbers.
 </div>
 
