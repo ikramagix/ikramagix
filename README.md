@@ -12,7 +12,7 @@
 
 <div align="center">
   
-![ikramagix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikramagix&theme=chartreuse-dark&hide_border=true)
+![ikramagix's Streak](https://github-readme-streak-stats.vercel.app/api?user=ikramagix&theme=chartreuse-dark&hide_border=true)
 <br>
 ![ikramagix's Stats](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 
