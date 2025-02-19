@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 👋 Hi, I’m <a href="https://ikramagix.com" target="_blank">@ikramagix</a> !<br>
 👀 I’m really into learning new things.<br>
 🗣 I speak PHP, HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQL, Node.js, Next.js<br>
