@@ -20,3 +20,5 @@
     width="100">
 </a>
 </div>
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ikramagix&theme=hacker-inverted&hide_border=true)](https://git.io/streak-stats)
