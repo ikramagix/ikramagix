@@ -1,8 +1,8 @@
 <div align="center">
 👋 Hi, I’m <a href="https://ikramagix.com" target="_blank">@ikramagix</a> !<br>
 👀 I’m really into learning new things.<br>
-🗣 I speak PHP, HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQL, Node.js, Next.js<br>
-🌱 I’m currently learning Laravel, Python and TypeScript <br>
+🗣 I speak PHP, Python, React, Ruby, Ruby on Rails, SQL, PostGreSQL, SQL, Node.js, Next.js, HTML, CSS, JavaScript. <br>
+🌱 I’m currently learning Laravel and TypeScript <br>
 💞️ I’m looking to collaborate! Let's talk!<br>
 📫 Get in touch: I'm old school so <a href="mailto:hello@ikramagix.com">em@il me</a><br>
 ♾️ fUn FaCt: I have a preference for odd numbers.
