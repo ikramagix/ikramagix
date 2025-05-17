@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ikramagix&color=333333) ![PlayStation](https://img.shields.io/badge/-PlayStation-333333?style=flat&logo=playstation&logoColor=blue) [![Email](https://img.shields.io/badge/-hello@ikramagix.com-333333?style=flat&logo=Gmail&logoColor=white&link=mailto:hello@ikramagix.com)](mailto:hello@ikramagix.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffd200?style=flat&logo=linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL) [![GitHub Followers](https://img.shields.io/github/followers/ikramagix?style=social)](https://github.com/ikramagix) 
+![](https://komarev.com/ghpvc/?username=ikramagix&color=333333) ![PlayStation](https://img.shields.io/badge/-PlayStation-333333?style=flat&logo=playstation&logoColor=blue) [![Email](https://img.shields.io/badge/-hello@ikramagix.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@ikramagix.com)](mailto:hello@ikramagix.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffd200?style=flat-square&logo=linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL) [![GitHub Followers](https://img.shields.io/github/followers/ikramagix?style=social)](https://github.com/ikramagix)
 
 ### Frontend Frameworks
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
@@ -8,10 +8,11 @@
 
 ### Styling & Design
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
 ![PostCSS](https://img.shields.io/badge/-PostCSS-333333?style=flat&logo=postcss&logoColor=DD3A0A)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwindcss&logoColor=38B2AC)
 ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![SVG](https://img.shields.io/badge/-SVG-333333?style=flat&logo=svg&logoColor=FFB13B)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
 ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=00C4CC)
@@ -22,10 +23,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ### Backend & APIs
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=000000)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=CC342D)
+![Rails](https://img.shields.io/badge/-Ruby_on_Rails-333333?style=flat&logo=rubyonrails&logoColor=CC0000)
 ![Serverless](https://img.shields.io/badge/-Serverless-333333?style=flat&logo=serverless&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)
+![REST API](https://img.shields.io/badge/-REST_API-333333?style=flat&logo=rest)
 
 ### Databases & Data
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
@@ -38,6 +46,8 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify&logoColor=00C7B7)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare&logoColor=F38020)
+![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache&logoColor=white)
 ![cPanel](https://img.shields.io/badge/-cPanel-333333?style=flat&logo=cpanel&logoColor=FF6C37)
 ![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-333333?style=flat&logo=pythonanywhere&logoColor=FF4B4B)
 
@@ -63,6 +73,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=CC342D)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell&logoColor=white)
+![Liquid](https://img.shields.io/badge/-Liquid-333333?style=flat&logo=liquid&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-333333?style=flat&logo=xml&logoColor=white)
 
