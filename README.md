@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=ikramagix&color=333333) ![PlayStation](https://img.shields.io/badge/-PlayStation-333333?style=flat&logo=playstation&logoColor=blue) [![Email](https://img.shields.io/badge/-hello@ikramagix.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@ikramagix.com)](mailto:hello@ikramagix.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffd200?style=flat-square&logo=linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL) [![GitHub Followers](https://img.shields.io/github/followers/ikramagix?style=social)](https://github.com/ikramagix)
+![](https://komarev.com/ghpvc/?username=ikramagix&color=333333) ![PlayStation](https://img.shields.io/badge/-PlayStation-333333?style=flat&logo=playstation&logoColor=blue) [![Email](https://img.shields.io/badge/-hello@ikramagix.com-333333?style=flat&logo=protonmail&logoColor=white&link=mailto:hello@ikramagix.com)](mailto:hello@ikramagix.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flate&logo=oneplus&logoColor=white&link=https://www.linkedin.com/in/ikrame-saadi/)](https://www.linkedin.com/in/ikrame-saadi/) [![GitHub Followers](https://img.shields.io/github/followers/ikramagix?style=social)](https://github.com/ikramagix)
+
+![](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 ### Frontend Frameworks
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
@@ -18,13 +20,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=00C4CC)
 
 ### Mobile & Desktop Environments
-![Android Studio](https://img.shields.io/badge/-Android_Studio-333333?style=flat&logo=androidstudio)  
-![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)  
-![Obsidian](https://img.shields.io/badge/-Obsidian-333333?style=flat&logo=obsidian)  
-![OnlyOffice](https://img.shields.io/badge/-OnlyOffice-333333?style=flat&logo=onlyoffice)  
-![Sailfish OS](https://img.shields.io/badge/-Sailfish_OS-333333?style=flat&logo=sailfishos)  
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=virtualbox)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-333333?style=flat&logo=androidstudio) ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo) ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter) ![Sailfish OS](https://img.shields.io/badge/-Sailfish_OS-333333?style=flat&logo=sailfishos) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=virtualbox)
 
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
@@ -70,9 +66,9 @@
 ![Campaign Manager 360](https://img.shields.io/badge/-Campaign_Manager_360-333333?style=flat&logo=googlecampaignmanager360)
 
 ### CMS & E-commerce
+![Shopify](https://img.shields.io/badge/-Shopify-333333?style=flat&logo=shopify&logoColor=96BF48)
 ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress&logoColor=21759B)
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-333333?style=flat&logo=woocommerce&logoColor=96588A)
-![Shopify](https://img.shields.io/badge/-Shopify-333333?style=flat&logo=shopify&logoColor=96BF48)
 ![Gutenberg](https://img.shields.io/badge/-Gutenberg-333333?style=flat&logo=gutenberg)
 
 ### Languages & Scripting
@@ -88,9 +84,6 @@
 ![XML](https://img.shields.io/badge/-XML-333333?style=flat&logo=xml&logoColor=white)
 
 ### Productivity & Other Tools
-![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm&logoColor=CB3837)
-![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier&logoColor=F7B93E)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter&logoColor=F37626)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-333333?style=flat&logo=obsidian&logoColor=white)
 ![OnlyOffice](https://img.shields.io/badge/-OnlyOffice-333333?style=flat&logo=onlyoffice&logoColor=0072C3)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=virtualbox&logoColor=white)
@@ -107,11 +100,4 @@
 
 ### Authentication & Security
 ![Auth0](https://img.shields.io/badge/-Auth0-333333?style=flat&logo=auth0)
-
-### Utilities & Others
 ![dotenv](https://img.shields.io/badge/-dotenv-333333?style=flat&logo=dotenv)  
-![Zoho](https://img.shields.io/badge/-Zoho-333333?style=flat&logo=zoho)
-
-<br>
-
-![](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
