@@ -17,16 +17,19 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
 ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=00C4CC)
 
-### Mobile & Desktop IDEs
-![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-333333?style=flat&logo=androidstudio&logoColor=3DDC84)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+### Mobile & Desktop Environments
+![Android Studio](https://img.shields.io/badge/-Android_Studio-333333?style=flat&logo=androidstudio)  
+![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)  
+![Obsidian](https://img.shields.io/badge/-Obsidian-333333?style=flat&logo=obsidian)  
+![OnlyOffice](https://img.shields.io/badge/-OnlyOffice-333333?style=flat&logo=onlyoffice)  
+![Sailfish OS](https://img.shields.io/badge/-Sailfish_OS-333333?style=flat&logo=sailfishos)  
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=virtualbox)
 
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=000000)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=CC342D)
@@ -39,10 +42,10 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=FFCA28)
 
 ### Cloud & Hosting
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333333?style=flat&logo=googlecloud)
 ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify&logoColor=00C7B7)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare&logoColor=F38020)
@@ -62,11 +65,15 @@
 ![Plausible](https://img.shields.io/badge/-Plausible-333333?style=flat&logo=plausibleanalytics&logoColor=000)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=googlebigquery&logoColor=4285F4)
 ![Data Studio](https://img.shields.io/badge/-Data_Studio-333333?style=flat&logo=googledatastudio&logoColor=4285F4)
+![Google Ads](https://img.shields.io/badge/-Google_Ads-333333?style=flat&logo=googleads)  
+![Google AdSense](https://img.shields.io/badge/-Google_AdSense-333333?style=flat&logo=googleadsense)  
+![Campaign Manager 360](https://img.shields.io/badge/-Campaign_Manager_360-333333?style=flat&logo=googlecampaignmanager360)
 
 ### CMS & E-commerce
 ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress&logoColor=21759B)
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-333333?style=flat&logo=woocommerce&logoColor=96588A)
 ![Shopify](https://img.shields.io/badge/-Shopify-333333?style=flat&logo=shopify&logoColor=96BF48)
+![Gutenberg](https://img.shields.io/badge/-Gutenberg-333333?style=flat&logo=gutenberg)
 
 ### Languages & Scripting
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -76,6 +83,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell&logoColor=white)
 ![Liquid](https://img.shields.io/badge/-Liquid-333333?style=flat&logo=liquid&logoColor=white)
+![RubyGems](https://img.shields.io/badge/-RubyGems-333333?style=flat&logo=rubygems)
 ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-333333?style=flat&logo=xml&logoColor=white)
 
@@ -87,6 +95,22 @@
 ![OnlyOffice](https://img.shields.io/badge/-OnlyOffice-333333?style=flat&logo=onlyoffice&logoColor=0072C3)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=virtualbox&logoColor=white)
 ![Zoho](https://img.shields.io/badge/-Zoho-333333?style=flat&logo=zoho&logoColor=white)
+
+### Testing & QA
+![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+
+### 3D & Visualization
+![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=threedotjs)
+
+### Authentication & Security
+![Auth0](https://img.shields.io/badge/-Auth0-333333?style=flat&logo=auth0)
+
+### Utilities & Others
+![dotenv](https://img.shields.io/badge/-dotenv-333333?style=flat&logo=dotenv)  
+![Zoho](https://img.shields.io/badge/-Zoho-333333?style=flat&logo=zoho)
 
 <br>
 
