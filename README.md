@@ -59,17 +59,10 @@
 ### Data & Analytics
 ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-333333?style=flat&logo=googleanalytics&logoColor=E37400)
 ![Plausible](https://img.shields.io/badge/-Plausible-333333?style=flat&logo=plausibleanalytics&logoColor=000)
-![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=googlebigquery&logoColor=4285F4)
-![Data Studio](https://img.shields.io/badge/-Data_Studio-333333?style=flat&logo=googledatastudio&logoColor=4285F4)
-![Google Ads](https://img.shields.io/badge/-Google_Ads-333333?style=flat&logo=googleads)  
-![Google AdSense](https://img.shields.io/badge/-Google_AdSense-333333?style=flat&logo=googleadsense)  
-![Campaign Manager 360](https://img.shields.io/badge/-Campaign_Manager_360-333333?style=flat&logo=googlecampaignmanager360)
+![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=googlebigquery&logoColor=4285F4) ![Data Studio](https://img.shields.io/badge/-Data_Studio-333333?style=flat&logo=googledatastudio&logoColor=4285F4) ![Google Ads](https://img.shields.io/badge/-Google_Ads-333333?style=flat&logo=googleads) ![Google AdSense](https://img.shields.io/badge/-Google_AdSense-333333?style=flat&logo=googleadsense) ![Campaign Manager 360](https://img.shields.io/badge/-Campaign_Manager_360-333333?style=flat&logo=googlecampaignmanager360)
 
 ### CMS & E-commerce
-![Shopify](https://img.shields.io/badge/-Shopify-333333?style=flat&logo=shopify&logoColor=96BF48)
-![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress&logoColor=21759B)
-![WooCommerce](https://img.shields.io/badge/-WooCommerce-333333?style=flat&logo=woocommerce&logoColor=96588A)
-![Gutenberg](https://img.shields.io/badge/-Gutenberg-333333?style=flat&logo=gutenberg)
+![Shopify](https://img.shields.io/badge/-Shopify-333333?style=flat&logo=shopify&logoColor=96BF48) ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress&logoColor=21759B) ![WooCommerce](https://img.shields.io/badge/-WooCommerce-333333?style=flat&logo=woocommerce&logoColor=96588A) ![Gutenberg](https://img.shields.io/badge/-Gutenberg-333333?style=flat&logo=gutenberg)
 
 ### Languages & Scripting
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
