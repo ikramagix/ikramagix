@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=ikramagix&color=333333) ![PlayStation](https://img.shields.io/badge/-PlayStation-333333?style=flat&logo=playstation&logoColor=blue) [![Email](https://img.shields.io/badge/-hello@ikramagix.com-333333?style=flat&logo=protonmail&logoColor=white&link=mailto:hello@ikramagix.com)](mailto:hello@ikramagix.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flate&logo=oneplus&logoColor=white&link=https://www.linkedin.com/in/ikrame-saadi/)](https://www.linkedin.com/in/ikrame-saadi/)
 
-![](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ikramagix&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 <details>
-  <summary>My full tech stack<em>(click to expand/close)</em></summary>
+  <summary>My full tech stack<em> (click to expand/close)</em></summary>
 
 ### Frontend Frameworks
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
