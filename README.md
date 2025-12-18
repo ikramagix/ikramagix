@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ikramagix&color=333333) ![PlayStation](https://img.shields.io/badge/-PlayStation-333333?style=flat&logo=playstation&logoColor=blue) [![Email](https://img.shields.io/badge/-hello@ikramagix.com-333333?style=flat&logo=protonmail&logoColor=white&link=mailto:hello@ikramagix.com)](mailto:hello@ikramagix.com)
 
-![](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=ikramagix&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true)
 <details>
   <summary>My full tech stack<em> (click to expand/close)</em></summary>
 
